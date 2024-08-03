@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247154435380",
+    "project_id": "foodorderflutter1st",
+    "storage_bucket": "foodorderflutter1st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247154435380:android:eb79421cea1e803fc1f161",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANmOW9xgCp-ws_xn6wub_vnwxTcSIc1hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
